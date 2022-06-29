@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2890244.css",
+    "main.js": "/static/js/main.feb885e0.js",
+    "static/media/img2.jpg": "/static/media/img2.80a24ea4b91c1df58d8d.jpg",
+    "static/media/img1.jpg": "/static/media/img1.03ad52010293fb645be6.jpg",
+    "static/media/img3.jpg": "/static/media/img3.fbe51534f405f3b9a018.jpg",
+    "static/media/tautan.png": "/static/media/tautan.5749b5fd6d928fec8060.png",
+    "static/media/iklanlagi.png": "/static/media/iklanlagi.bce07b97bbf008d2a73a.png",
+    "static/media/ads.png": "/static/media/ads.efd99b2fb1adfeeed5b1.png",
+    "index.html": "/index.html",
+    "main.c2890244.css.map": "/static/css/main.c2890244.css.map",
+    "main.feb885e0.js.map": "/static/js/main.feb885e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2890244.css",
+    "static/js/main.feb885e0.js"
+  ]
+}
